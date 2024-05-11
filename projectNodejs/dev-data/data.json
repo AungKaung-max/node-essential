@@ -1,0 +1,31 @@
+[
+    {
+        "id" :1,
+        "image" : "https://img.sonofatailor.com/images/customizer/product/White_O_Crew_Regular_NoPocket-e940d9f6-3ce0-4e91-8c3f-51289a649a17.jpg",
+        "productName" : "Frosty White Top",
+        "price": "60",
+        "quantity" : "4"
+
+    },
+    {
+        "id": 2,
+        "image" : "https://cdn.shopify.com/s/files/1/0724/8583/0962/files/MEN-S-BADGET-WHITE-T-SHIRT-COTTON-LYCRA-FABRIC-CREW-NECK-SLIM-FIT-T-SHIRT-LOVER-875_c5069726-45c6-41fd-9dba-3477459ec00a.jpg?v=1684005983&width=1920.jpg",
+        "productName" : "Strawberry Swirl Shirt",
+        "price": "70",
+        "quantity" : "5"
+    },
+    {
+        "id": 3,
+        "image" : "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24014310/2023/7/14/e0d643e5-05bc-4249-833b-0ddf80440f851689274793057BULLMERMenBeigePrintedV-NeckPocketsT-shirt1.jpg",
+        "productName": "Steel Chic Tee",
+        "price": "65",
+        "quantity" : "3"
+    },
+    {
+        "id": 4,
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2023/4/301339062/AP/TY/WN/7175905/oversized-crop-t-shirt-girls.jpg",
+        "productName" : "Minty Fresh Tee",
+        "price": "55",
+        "quantity" : "7"
+    }
+]

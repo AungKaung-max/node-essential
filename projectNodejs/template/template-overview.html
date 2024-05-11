@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="../js/script.js"></script>
+    <style>
+    
+
+
+
+.animation:hover
+        {
+            transform: scale(1.08);
+            box-shadow: 0 3rem 8rem 2rem rgba(0, 0, 0, 0.15);
+            transition: all ease .3s;
+            cursor: pointer;
+        }
+
+h1{
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+span{
+
+    color: #fff;
+    -webkit-text-stroke:1px #000;
+    margin-right: 15px;
+}
+    </style>
+</head>
+<body>
+
+    <h1 class="text-center text-2xl uppercase my-8">Black <span>White</span>Clothing</h1>
+    <div class="container mx-auto">
+        <div class="grid grid-cols-2 gap-5 my-10">
+                
+            {%PRODUCT_CARDS%}
+  
+    </div>
+
+</body>
+</html>
